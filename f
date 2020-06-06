@@ -8,7 +8,7 @@
 function push_commit()
 {
     #commit changes
-    git commit -am 'photo grid'
+    git commit -am 'web portfolio'
     # push to github
     git push
 }
