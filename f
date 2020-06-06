@@ -16,7 +16,7 @@ function push_commit()
 function commit()
 {
     # commt changes only
-    git commit -am 'photo grid'
+    git commit -am 'web portfolio'
 }
 
 # what to run
